@@ -1,1 +1,2 @@
-﻿# Basic Azure DevOps pipeline to test Terraform
+﻿# Basic Azure Devops pipeline to provision Azure resources using Terraform
+
